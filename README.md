@@ -5,7 +5,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hgirard78&repo=AFIT)
 
 ![TryHackMe Badge](Shefax.png "THM")
-![TryHackMe Badge 2](https://tryhackme.com/badge/263758.png "THM")
+![TryHackMe Badge 2](https://tryhackme.com/badge/263758 "THM")
 
 
 <!--
