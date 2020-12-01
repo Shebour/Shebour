@@ -6,10 +6,7 @@
 
 ![TryHackMe Badge](Shefax.png "THM")
 
-## 📫 How to reach me: hugo.girard@epita.fr
-
-<!--
-**hgirard78/hgirard78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📫 How to reach me: hugo.girard@epita.fr
 
 Here are some ideas to get you started:
 
