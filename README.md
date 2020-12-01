@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hgirard78)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hgirard78&repo=script)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hgirard78&repo=AFIT)
 
 
 <!--
