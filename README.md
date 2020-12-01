@@ -6,8 +6,9 @@
 
 ![TryHackMe Badge](Shefax.png "THM")
 
-# 📫 How to reach me: hugo.girard@epita.fr
+- 📫 How to reach me: hugo.girard@epita.fr
 
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
