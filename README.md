@@ -8,7 +8,7 @@
 
 ![TryHackMe Badge](Shefax.png "THM")
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgirard78&theme=tokyonight)
 
 
 ## 🧰 Languages and Tools:
@@ -25,7 +25,7 @@
 <p align="center">
  
  <a href="https://www.linkedin.com/in/hugo-girard-b434291b4/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://tryhackme.com/p/Shefax" target="_blank" rel="noopener noreferrer"> <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://tryhackme.com/p/Shefax" target="_blank" rel="noopener noreferrer"> <img src="https://www.pwndefend.com/wp-content/uploads/2020/01/Try_hack_me_1200_600_s_c1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
