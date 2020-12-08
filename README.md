@@ -4,7 +4,7 @@
 - 🔭 French student at EPITA 2nd year
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hgirard78)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hgirard78&theme=tokyonight)
 
 ![TryHackMe Badge](Shefax.png "THM")
 
