@@ -1,14 +1,14 @@
 ### Hi ! Welcome to my Github page ⚡
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hgirard78)
+- 📫 How to reach me: hugo.girard@epita.fr
+- 🔭 French student at EPITA 2nd year
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hgirard78&repo=AFIT)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=hgirard78)
 
 ![TryHackMe Badge](Shefax.png "THM")
 
-
-- 📫 How to reach me: hugo.girard@epita.fr
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 ## 🧰 Languages and Tools:
@@ -25,9 +25,10 @@
 <p align="center">
  
  <a href="https://www.linkedin.com/in/hugo-girard-b434291b4/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://tryhackme.com/p/Shefax" target="_blank" rel="noopener noreferrer"> <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
