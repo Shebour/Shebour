@@ -8,8 +8,8 @@
 
 ![TryHackMe Badge](Shefax.png "THM")
 
-<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgirard78&theme=tokyonight)
----!>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgirard78&theme=tokyonight)
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
