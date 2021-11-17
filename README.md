@@ -1,7 +1,7 @@
 ### Hi ! Welcome to my Github page ⚡
 
 - 📫 How to reach me: hugo.girard@epita.fr
-- 🔭 French student at EPITA 2nd year
+- 🔭 French student at EPITA 3rd year
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hgirard78&theme=tokyonight)
 
