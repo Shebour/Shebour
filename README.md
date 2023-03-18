@@ -1,15 +1,13 @@
 ### Hi ! Welcome to my Github page ⚡
 
 - 📫 How to reach me: hugo.girard@epita.fr
-- 🔭 French student at EPITA 3rd year
+- 🔭 French student at EPITA 4th year
+- 🧰 Embedded system / Hardware / Bare-Metal
 
-<a href="https://github.com/hgirard78/hgirard78">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgirard78&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+## Stats
 
-![TryHackMe Badge](Shefax.png "THM")
+[![Stats](https://github-readme-stats.vercel.app/api?username=Shebour&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgirard78&theme=tokyonight)
 
 
 ## 🧰 Languages and Tools:
@@ -20,16 +18,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://bashlogo.com/img/symbol/jpg/full_colored_light.jpg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Archlinux-vert-dark.svg/1200px-Archlinux-vert-dark.svg.png" alt="ArchLinux" height="40" style="vertical-align:top; margin:4px">
-<img src="https://files.cults3d.com/uploaders/13841081/illustration-file/b21c7a0c-1acd-4aa1-ac50-05898d1ddf94/Kali-logo_large.jpg" alt="Kali Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logos-marques.com/wp-content/uploads/2021/03/Linux-Logo.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/STMicroelectronics.png" alt="STMicroelectronics" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shebour&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ## ✉️ Find me on:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hugo-girard-b434291b4/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://tryhackme.com/p/Shefax" target="_blank" rel="noopener noreferrer"> <img src="https://www.pwndefend.com/wp-content/uploads/2020/01/Try_hack_me_1200_600_s_c1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <!---
