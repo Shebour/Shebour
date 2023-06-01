@@ -22,7 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/STMicroelectronics.png" alt="STMicroelectronics" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shebour&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shebour&count_private=true&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ## ✉️ Find me on:
 
 <p align="center">
