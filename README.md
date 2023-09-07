@@ -1,8 +1,8 @@
 ### Hi ! Welcome to my Github page ⚡
 
 - 📫 How to reach me: hugo.girard@epita.fr
-- 🔭 French student at EPITA 4th year
-- 🧰 Embedded system / Hardware / Bare-Metal
+- 🔭 French student at EPITA 5th year
+- 🧰 Embedded system / Hardware / Bare-Metal / Linux / Emulation 
 
 ## Stats
 
