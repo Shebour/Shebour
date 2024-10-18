@@ -1,6 +1,6 @@
 ### Hi ! Welcome to my Github page ⚡
 
-- 📫 How to reach me: hugo.girard94@gmail.Com
+- 📫 How to reach me: hugo.girard94@gmail.com
 - 🧰 Hardware / Linux / Emulation / Integration / Simulation / Windows
 
 ## 🧰 Languages and Tools:
