@@ -12,9 +12,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logos-marques.com/wp-content/uploads/2021/03/Linux-Logo.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-## ✉️ Find me on:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/hugo-girard-b434291b4/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
