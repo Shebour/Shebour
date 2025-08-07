@@ -1,7 +1,7 @@
 ### Hi ! Welcome to my Github page ⚡
 
 - 📫 How to reach me: hugo.girard94@gmail.com
-- 🧰 Hardware / Linux / Emulation / Integration / Simulation / Windows
+- 🧰 Linux / Emulation / Integration / Simulation / Windows
 
 ## 🧰 Languages and Tools:
 <p align="center">
